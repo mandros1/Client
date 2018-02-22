@@ -1,0 +1,29 @@
+{ "Color": [{"Black": "black"},
+        {"White": "white"},
+        {"Red": "red"},
+        {"Yellow": "yellow"}
+    ],
+    "Main Theme": [ 
+        {"Animal": [
+                {"Herbivores": [
+                    {"Lizard": "IMAGE_URL"},
+                    {"Gorilla": "IMAGE_URL"},
+                    {"Elephant": "IMAGE_URL"}
+                ]},
+                {"Carnivores": [
+                    {"Lion": "IMAGE_URL"},
+                    {"Tiger": "IMAGE_URL"},
+                    {"Panther": "IMAGE_URL"}
+                ]},
+                {"Omnivores": [
+                    {"Boar": "IMAGE_URL"},
+                    {"Bear": "IMAGE_URL"},
+                    {"Fox": "IMAGE_URL"}
+                ]}
+            ]},
+        {"Person": []},
+        {"Food & Drink": []},
+        {"Abstract": []}
+    ]
+}
+ 
